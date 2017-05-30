@@ -76,10 +76,10 @@ The case that goes on top:
 ![](images/cap.png)
 
 For the knobs I wrote simple OpenSCAD script. There is one knob with a longer head for the on/off switch:
-![](images/on-off knob.png)
+![](images/on-off_knob.png)
 
 ...and this one for all the other buttons:
-![](images/other knobs.png)
+![](images/other_knobs.png)
 
 ### Step 5 printing and assembly
 
