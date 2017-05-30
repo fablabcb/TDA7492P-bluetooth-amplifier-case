@@ -15,7 +15,7 @@ like shown in [this tutorial](http://www.instructables.com/id/Convert-any-2D-ima
 
 I started with outlining the components that need access from the outside (buttons, line in, DC in, speaker wire nuts):
 
-![](images/outline all components.png)
+![](images/outline_all_components.png)
 
 ### Step 2 add a shell where everything fits inside:
 
@@ -27,7 +27,7 @@ It is important to convert strokes to paths.
 Go to Path > Stroke to Path (or in German: 
 Pfad > Kontur in Pfad umwandeln) to convert the 1.6 mm outline to two lines, one for the outer shell, one for the inner. 
 
-![](images/Kontur zu Pfad.png)
+![](images/Kontur_zu_Pfad.png)
 
 
 ### Step 3 layers for top and bottom, screw holes, button holes, etc.
